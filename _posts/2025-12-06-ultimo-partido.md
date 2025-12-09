@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Victoria clave contra el [FC Barcelona]"
+title: "Victoria clave contra el [Racing de Santander]"
 date: 2025-12-05 10:00:00 +0100
 author: "Pablo López"
 categories: futbol

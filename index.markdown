@@ -44,7 +44,7 @@ En esta web encontrarás secciones dedicadas a:
 ## 📸 Imagen destacada del estadio
 
 ![Estadio de la UD Las Palmas](/assets/images/estadio.jpg){: style="width:350px;" }
-![Estadio de la UD Las Palmas]({{"/assets/images/estadio.jpg" | relative_url }})
+
 
 
 ---
